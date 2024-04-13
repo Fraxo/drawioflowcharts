@@ -1,22 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T01:40:41.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0ALS1WnwjrLBJKc_pbou" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T02:55:45.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="oR668wppsqLXNALtZtP6" version="24.2.5" type="github">
   <diagram name="Page-1" id="OFaEZ9poYRicQEzESDCu">
-    <mxGraphModel dx="989" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rt6s8vXBhz8g_WbsE8dS-5" value="Talk 2 NPC?&lt;div&gt;Run? Fast Travel?&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-1" target="rt6s8vXBhz8g_WbsE8dS-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-5" value="Fossil time!" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.515;exitY=-0.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-1" target="rt6s8vXBhz8g_WbsE8dS-3">
+          <mxGeometry x="-0.2395" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rt6s8vXBhz8g_WbsE8dS-1" value="Go out into field" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-1" value="Go out into field&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Talk 2 NPC?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Run? Fast Travel?&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-3" value="Scan for fossils" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-7" target="rt6s8vXBhz8g_WbsE8dS-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="30" />
+              <mxPoint x="460" y="-50" />
+              <mxPoint x="460" y="-50" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -24,37 +27,131 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-7" value="Yes!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="20" width="30" height="20" as="geometry" />
+          <mxGeometry x="480" y="-60" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-8" target="rt6s8vXBhz8g_WbsE8dS-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="70" />
+              <mxPoint x="440" y="-50" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rt6s8vXBhz8g_WbsE8dS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-8" target="rt6s8vXBhz8g_WbsE8dS-3">
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-21" target="rt6s8vXBhz8g_WbsE8dS-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="565" y="100" />
-              <mxPoint x="420" y="100" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-8" value="No :(" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="60" width="30" height="20" as="geometry" />
+          <mxGeometry x="425" y="-20" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-14" value="Fossil?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-11" target="rt6s8vXBhz8g_WbsE8dS-3">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-1" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rt6s8vXBhz8g_WbsE8dS-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="20" height="20" as="geometry" />
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-17" target="rt6s8vXBhz8g_WbsE8dS-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699.9999999999998" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-17" value="Dig it up!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="-70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-20" target="rt6s8vXBhz8g_WbsE8dS-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-20" value="Have enough Fossils?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.868;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494.1300000000001" y="209.39999999999986" as="sourcePoint" />
+            <mxPoint x="509.97" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="209" />
+              <mxPoint x="500" y="220" />
+              <mxPoint x="510" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="225" />
+              <mxPoint x="390" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-24" target="rt6s8vXBhz8g_WbsE8dS-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-24" value="Return to Town" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-26" target="rt6s8vXBhz8g_WbsE8dS-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-26" value="Clean Fossil!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-27" value="Revive Dino!" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-8" target="rt6s8vXBhz8g_WbsE8dS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-24" target="rt6s8vXBhz8g_WbsE8dS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-20" target="rt6s8vXBhz8g_WbsE8dS-45">
+          <mxGeometry x="-0.2857" relative="1" as="geometry">
+            <mxPoint x="440" y="30" as="targetPoint" />
+            <mxPoint x="580" y="30" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-45" value="No :(" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.921;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-45" target="rt6s8vXBhz8g_WbsE8dS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-48" target="rt6s8vXBhz8g_WbsE8dS-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-48" value="Yes!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-52" target="rt6s8vXBhz8g_WbsE8dS-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-52" value="Level-up battle!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-54" target="rt6s8vXBhz8g_WbsE8dS-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-54" value="Clean Fossil!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-58" value="Do battle!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-60" value="Receive Quest!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

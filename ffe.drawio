@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T02:55:45.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="oR668wppsqLXNALtZtP6" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T04:49:40.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Yt32qbrkV_Dzl5UxLXpf" version="24.2.5" type="github">
   <diagram name="Page-1" id="OFaEZ9poYRicQEzESDCu">
     <mxGraphModel dx="819" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rt6s8vXBhz8g_WbsE8dS-5" value="Fossil time!" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.515;exitY=-0.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-1" target="rt6s8vXBhz8g_WbsE8dS-3">
+        <mxCell id="rt6s8vXBhz8g_WbsE8dS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.515;exitY=-0.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-1" target="rt6s8vXBhz8g_WbsE8dS-3">
           <mxGeometry x="-0.2395" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-1" value="Go out into field&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Talk 2 NPC?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Run? Fast Travel?&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-3" value="Scan for fossils" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-80" width="120" height="60" as="geometry" />
@@ -147,11 +147,11 @@
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rt6s8vXBhz8g_WbsE8dS-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="100" as="targetPoint" />
+            <mxPoint x="240" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rt6s8vXBhz8g_WbsE8dS-60" value="Receive Quest!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="410" y="90" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
